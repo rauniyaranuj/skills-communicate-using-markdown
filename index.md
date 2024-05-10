@@ -8,6 +8,6 @@
 I have committed this new file
 ![alt-text](images/example.jpg)
 
-'''javascript
+```javascript
 var myVar = "hello world";
-'''
+```
